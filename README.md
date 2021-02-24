@@ -1,8 +1,6 @@
-# Node Hello World
+# Example of creation of dockerfile for Node js application
 
 #First step
-
-## Run It
 
 `npm install` to create package-lock.json file on the command line
 
